@@ -28,7 +28,7 @@ public class main {
             System.out.println("Creación de tabla exitosa");
 
             boolean check = true;
-            final String CLAVE = "ejercicio1";
+            final String CLAVE = "ejercicio2";
             GestorPersonaje gestor = new GestorPersonaje();
 
             while (check) {
@@ -254,3 +254,4 @@ public class main {
         }
     }
 }
+
