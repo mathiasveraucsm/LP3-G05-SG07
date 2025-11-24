@@ -130,9 +130,9 @@ public class AppIntegrada extends JFrame {
         }
     }
 
-    // ------------------ MAIN ------------------
     public static void main(String[] args) {
         SwingUtilities.invokeLater(AppIntegrada::new);
     }
 }
+
 
